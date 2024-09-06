@@ -25,6 +25,18 @@ For task 2 we used the command nmap -sV on the e-commerce servers IP to display 
 
 ## Injection Number 3
 
+In injection three the team was tasked with breaking into the server using Metasploit
+
+Using the versions of services running on the e-commerce server, we saw that the FTP service it was running had a backdoor vulnerability. We used the (unix/ftp/vsftpd_234_backdoor) exploit on the e-commerce server and were able to gain a access. 
+
+![image](https://github.com/user-attachments/assets/1c4a3094-ca7b-4c50-9f62-5a347c6a85c9)
+
+Finally, to prove we had root access we used the commands whoami, id, pwd, and ls. See the output below. 
+![image](https://github.com/user-attachments/assets/1c4ddbf0-5961-4f41-ba46-b0869da00cff)
+
+## Injection Number 4
+
+
 
 
 
