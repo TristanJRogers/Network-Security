@@ -1,4 +1,4 @@
-# Network-Security Injection Project
+# Network Security Injection Project
 
 In this project I and other team members attacked a server using various security tools and tactics. Through this project, we learned how security breaches occur and how to defend systems and networks.
 
