@@ -71,7 +71,7 @@ We tried to use steghide and a password list to find the hidden treasure but it 
 
 ![image](https://github.com/user-attachments/assets/daa6707a-d087-4c55-b918-34b2e3328530)
 
-The full injection five write up can be found here:
+The full injection five write up can be found here: https://github.com/TristanJRogers/Network-Security--Injections-Project/blob/main/Injection%205.docx 
 
 ## Tools/Software Used
 
