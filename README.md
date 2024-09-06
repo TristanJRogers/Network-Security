@@ -53,6 +53,47 @@ For the final results you will see that in the screenshot below, the files were 
 
 ![image](https://github.com/user-attachments/assets/0585b8fc-a4f7-4c6a-97e5-13a897a44ac0)
 
+## Injection Number 5
+
+In injection number five we were to find a "treasure" within the image file we transferred over to our kali machine. The instructions we were given were located in a file that was encrypted using an RSA algorithm(0x8F6568A3-pub.asc.encrypted.txt).
+
+Here you can see where we unencrypted the file using www.pgptool.org
+
+![image](https://github.com/user-attachments/assets/0c62573f-f7c2-43dc-a9b2-07d3b7db45a2)
+
+As you can see, the instructions indicated that the treasure was hidden using steganography
+
+We tried to use steghide and a password list to find the hidden treasure but it failed. We then began to research and found Stegseek. We then used stegseek with a password list and were finally able to find the hidden treasure: a (fake) credit card number.
+
+![image](https://github.com/user-attachments/assets/a108aa18-a9a1-4a7d-a72d-c8b1f1201d70)
+
+![image](https://github.com/user-attachments/assets/8690dfe1-aac0-4504-9691-3debc9f54f09)
+
+![image](https://github.com/user-attachments/assets/daa6707a-d087-4c55-b918-34b2e3328530)
+
+The full injection five write up can be found here:
+
+## Tools/Software Used
+
+www.pgptool.org
+Steghide
+Stegseek
+Metasploit
+Netcat
+NMAP
+Kali Linux
+Steganography
+RSA Encrption
+
+
+
+
+
+
+
+
+
+
 
 
 
