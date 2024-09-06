@@ -6,7 +6,7 @@ During this endeavor we used two virtual machines in a VLAN. The first was a Kal
 
 ## Injection Number 1
 
-In injection one we were tasked with creating a security policy and introducing the team to the instructor. The security policy and team introduction we wrote can be found here:
+In injection one we were tasked with creating a security policy and introducing the team to the instructor. The security policy and team introduction we wrote can be found here: https://github.com/TristanJRogers/Network-Security/blob/main/Injection%201.docx 
 
 ## Injection Number 2
 
