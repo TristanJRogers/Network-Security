@@ -42,12 +42,15 @@ In injection number four we were tasked with tasked with transferring three file
 We used the command "nc -v 192.168.1.7 69 <insert file name>" on the ecommerce server and command nc-v -l -p69 > <insert file name> on the kali machine
 
 E-commerce server
+
 ![image](https://github.com/user-attachments/assets/28e2c63e-8225-42e2-807c-e403169fb9f2)
 
 Kali machine
+
 ![image](https://github.com/user-attachments/assets/d6e0b2df-d472-4d74-ab7b-aa38863df461)
 
 For the final results you will see that in the screenshot below, the files were successfully transferred to our kali machine. 
+
 ![image](https://github.com/user-attachments/assets/0585b8fc-a4f7-4c6a-97e5-13a897a44ac0)
 
 
